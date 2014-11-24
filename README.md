@@ -13,11 +13,18 @@ For create directive, call the command : `your/path/directive.sh directiveName`
 These scripts will create files like this :
 
 `app/controllers/ControllerName.js`
+
 `app/factory/factoryName.js`
+
 `app/filters/filterName.js`
+
 `app/directive/directiveName.js`
 
+
 `tests/controllers/ControllerName.js`
+
 `tests/factory/factoryName.js`
+
 `tests/filters/filterName.js`
+
 `tests/directive/directiveName.js`
