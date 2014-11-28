@@ -29,9 +29,9 @@ then
 
     echo "'use strict';
 
-    app.controller('$1', ['\$scope', '\$log', function(\$scope, \$log) {
+app.controller('$1', ['\$scope', '\$log', function(\$scope, \$log) {
 
-    }]);" > $CONTROLLER"/"$1".js"
+}]);" > $CONTROLLER"/"$1".js"
 
 
     echo "'use strict';
